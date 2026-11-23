@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+
+# Backend
+backend/**/target/
+backend/**/*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# OS
+.DS_Store
+Thumbs.db
